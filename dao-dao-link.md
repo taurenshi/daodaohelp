@@ -26,12 +26,12 @@
 
 ### 常用界面
 
-* **列表页**<br>
-![](/assets/03ui_list.png)
+* **列表页**
+> ![](/assets/03ui_list.png)
 > 通常，反向操作项（如删除、下线等）的图标为红色。
 
-* **图片上传**<br>
-![](/assets/03ui_imageupload.png)
+* **图片上传**
+> ![](/assets/03ui_imageupload.png)
 
 ## 联系我们
 
