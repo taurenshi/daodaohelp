@@ -1,4 +1,4 @@
-# 道道LINK帮助文档2
+# 道道LINK帮助手册
 
 [http://www.dd.link](http://www.dd.link "道道LINK")
 
